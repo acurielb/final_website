@@ -1,0 +1,74 @@
+.img_holder {
+position:relative;
+top:50px;
+left:450;
+}
+
+
+.g_holder {
+position: absolute;
+top:250px;
+left:610px;
+}
+
+.g_holder:hover {
+top:150;
+}
+
+
+.o_holder {
+position: absolute;
+top:250px;
+left:730px;
+}
+
+.o_holder:hover {
+top:150;
+}
+
+.oo_holder {
+position: absolute;
+top:250px;
+left:860px;
+}
+
+.oo_holder:hover {
+top:150;
+}
+
+.gg_holder {
+position: absolute;
+top:250px;
+left:970px;
+}
+
+.gg_holder:hover {
+top:150;
+}
+
+.l_holder {
+position: absolute;
+top:250px;
+left:1113px;
+}
+
+.l_holder:hover {
+top:200;
+}
+
+.e_holder {
+position: absolute;
+top:250px;
+left:1180px;
+}
+
+.e_holder:hover {
+top:150;
+}
+
+p {
+font-size:60;
+color: #000000;
+margin-left:850px;
+}
+

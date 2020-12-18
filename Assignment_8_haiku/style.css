@@ -1,0 +1,12 @@
+p {
+margin-top:50px;
+margin-left:60px;
+font-size: 50px;
+position: absolute;
+}
+
+mark.red {
+    color:#ff0000;
+    background: none;
+}
+

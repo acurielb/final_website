@@ -1,0 +1,23 @@
+#imgholder
+{
+width 10px;
+margin-left:500px;
+margin-right:auto;
+}
+
+
+h2 {
+margin-left:600px;
+color: #000000;
+}
+
+
+
+#textbox {
+width: 100px;
+height: 10px;
+float: left;
+margin-top: 450px;
+margin-left:-200px;
+
+} 

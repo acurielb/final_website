@@ -1,0 +1,36 @@
+#container{
+width: 1120px;
+height: 1020px;
+float: left;
+margin-top: 40px;
+background: tomato; 
+}
+
+#outer {
+width: 200px;
+height: 200px;
+float: left;
+margin-top: 40px;
+background: violet;
+}
+
+#inner {
+width: 100px;
+height: 100px;
+float: left;
+margin-top: 80px;
+/*subtract the font size from the margin*/
+margin-right: 50px;
+margin-left: 50px;
+background: orange;
+} 
+
+#holder{
+width: 100px;
+height: 100px;
+padding-top:10px;
+padding-left: 10px;
+padding-rightt: 10px;
+padding-bottom: 10px;
+background: #FFF;
+} 

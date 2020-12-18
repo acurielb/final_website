@@ -1,0 +1,29 @@
+#back {
+width: 900px;
+height: 1000px;
+margin-top: 0px;
+margin-left:500px;
+background: #8B0000;
+}
+
+h2{
+margin-left:325px;
+color: #F8F8FF;
+font-size: 50px;
+}
+
+p {
+color: #F8F8FF;
+margin-left:40px;
+font-size: 40px;
+}
+
+
+#textbox {
+width: 50px;
+height: 10px;
+float: left;
+margin-top: 450px;
+margin-left:-200px;
+
+} 
